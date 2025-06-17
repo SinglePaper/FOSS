@@ -1,8 +1,7 @@
 ---
-title: "RSS Feeds: Better content delivery"
+title: "RSS: Better feeds"
 ---
-![[Pasted image 20250617230701.png|50]]
-RSS (Really Simple Syndication) feeds are a game-changer for staying informed and organized online. RSS lets you subscribe to updates from websites, blogs, news sources, and even social media platforms. Many sites offer RSS feeds, usually marked with an orange icon. By using RSS, you take control of your content consumption, getting updates directly without relying on algorithms. This means you won't miss important content and can reduce your dependence on social media and search engines. With an RSS reader, you can have all your favorite content in one place, making it easy to stay updated on what matters to you. Whether you're into news, tech, or specific hobbies, RSS feeds keep you in the loop efficiently.
+![[Pasted image 20250617230701.png|30]]  RSS (Really Simple Syndication) feeds are a game-changer for staying informed and organized online. RSS lets you subscribe to updates from websites, blogs, news sources, and even social media platforms. Many sites offer RSS feeds, usually marked with an orange icon. By using RSS, you take control of your content consumption, getting updates directly without relying on algorithms. This means you won't miss important content and can reduce your dependence on social media and search engines. With an RSS reader, you can have all your favorite content in one place, making it easy to stay updated on what matters to you. Whether you're into news, tech, or specific hobbies, RSS feeds keep you in the loop efficiently.
 
 RSS feeds look intimidating when you see them, which is why you should use an RSS reader when you are actually using them. I use [Feedly](https://feedly.com/), but feel free to look around on the internet to see if there's one that fits. This specific RSS reader is ironically not open source, but has some nice features and allows for cross-device syncing without having to rely on self-hosting. If you do not need your RSS reader to sync between devices there is a plethora of open source options available online for both phone and desktop.
 
